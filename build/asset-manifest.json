@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.840efa12.css",
+    "main.js": "/static/js/main.25f70f9d.js",
+    "static/media/Black And Gold Modern Beauty Salon Logo.png": "/static/media/Black And Gold Modern Beauty Salon Logo.cce18ffa2874df4da936.png",
+    "index.html": "/index.html",
+    "main.840efa12.css.map": "/static/css/main.840efa12.css.map",
+    "main.25f70f9d.js.map": "/static/js/main.25f70f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840efa12.css",
+    "static/js/main.25f70f9d.js"
+  ]
+}

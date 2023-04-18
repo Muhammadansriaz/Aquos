@@ -1,0 +1,32 @@
+.title {
+    padding: 1rem;
+}
+
+.Row {
+    display: flex;
+    flex-direction: row !important;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+
+
+}
+
+.card {
+    border: none;
+    padding: 1rem;
+    flex: 0 0 auto;
+    margin-right: 10px;
+    min-width: 20px;
+
+}
+
+.card-img {
+    width: 150px;
+    height: 200px;
+
+    transition: transform 0.5s;
+
+    &:hover {
+        transform: translateY(-10px) scale(1.1);
+    }
+}
